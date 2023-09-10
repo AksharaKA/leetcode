@@ -15,12 +15,6 @@ class Solution {
                     i++;
                 }
                 len--;
-                for(int k=0;k<len;k++)
-                {
-                    System.out.println(nums[k]);
-                    
-                }
-                System.out.println("\n");
                 i=p-1;; 
             }
         }
